@@ -42,7 +42,7 @@ header .gnb li:hover a {color: #5da1c4;}
                 border-radius: 50%; left: 36%; top: 41%; opacity: 0;
                 animation: circle-move 7s 2s infinite;}
 @keyframes circle-move {
-    0% {left: 36%; top: 21%; opacity: 0;}
+    0% {left: 36%; top: 21%; opacity: 1;}
     25% {left: 64%; top: 21%; opacity: 1;}
     50% {left: 64%; top: 70%; opacity: 1;}
     75% {left: 36%; top: 70%; opacity: 1;}
